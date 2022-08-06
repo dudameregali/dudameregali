@@ -1,7 +1,17 @@
-### Hi there 👋
+## Olá, Sou Maria Eduarda Meregali
 
-<!--
-**dudameregali/dudameregali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💬 Sobre mim
+* Nome: Maria Eduarda da Luz Meregali
+* Nickname: dudameregali
+* Idade: 22 anos
+* Cidade: Rio Grande, Rio Grande do Sul - Brasil
+* Universidade: 5º Semestre do Curso de Sistemas de Informação na Universidade Federal do Rio Grande - FURG
+
+<div align="center">
+  <a href="https://github.com/dudameregali">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudameregali&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudameregali&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 Here are some ideas to get you started:
 
