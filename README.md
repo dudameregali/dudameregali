@@ -7,7 +7,7 @@
 * Nickname: dudameregali
 * Idade: 22 anos
 * Cidade: Rio Grande, Rio Grande do Sul - Brasil
-* Universidade: 5º Semestre do Curso de Sistemas de Informação na Universidade Federal do Rio Grande - FURG
+* Universidade: 7º Semestre do Curso de Sistemas de Informação na Universidade Federal do Rio Grande - FURG
 <div style="display: inline_block">
   <ul> 
     <li>
